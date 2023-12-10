@@ -1,0 +1,18 @@
+{
+  "expt_name": "tsp50",
+  "gpu_id": "0",
+
+  "num_nodes": 50,
+    
+  "node_dim": 2,
+  "voc_nodes_in": 2,
+  "voc_nodes_out": 2,
+  "voc_edges_in": 3,
+  "voc_edges_out": 2,
+
+  "hidden_dim": 300,
+  "num_layers": 30,
+  "mlp_layers": 3,
+  "aggregation": "mean"
+
+}
